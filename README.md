@@ -1,3 +1,5 @@
+**This crate has been transferred to the duat monorepo, as such, this repository has been archived**
+
 # duat-match-pairs ![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue) [![duat-match-pairs on crates.io](https://img.shields.io/crates/v/duat-match-pairs)](https://crates.io/crates/duat-match-pairs) [![duat-match-pairs on docs.rs](https://docs.rs/duat-match-pairs/badge.svg)](https://docs.rs/duat-match-pairs) [![Source Code Repository](https://img.shields.io/badge/Code-On%20GitHub-blue?logo=GitHub)](https://github.com/AhoyISki/duat-match-pairs)
 
 A simple [`Plugin`][__link0] to match pairs of parentheses
